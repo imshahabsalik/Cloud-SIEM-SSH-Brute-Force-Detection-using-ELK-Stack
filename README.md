@@ -75,14 +75,6 @@ Alert triggers when:
 
 ---
 
-## 🚀 Future Improvements
-
-* Detect password spraying attacks
-* Add geo-location based anomaly detection
-* Integrate alert notifications (email/Slack)
-
----
-
 ## 📬 Author
 
-Your Name
+Shahab Salik
